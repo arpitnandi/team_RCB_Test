@@ -13,7 +13,7 @@ import functions.*;
 
 /* To run the test:
  * 1) Install maven in the system
- * 2) Navigate to the framework core directory
+ * 2) Open cmd and navigate to the framework core directory
  * 3) Run the commands in a sequence - "mvn clean" >> "mvn compile" >> "mvn test"
  */
 
